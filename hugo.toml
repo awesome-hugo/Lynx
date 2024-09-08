@@ -1,0 +1,4 @@
+baseURL = 'https://awesome-hugo.github.io/Lynx/'
+languageCode = 'en-us'
+title = 'Hugo with Lynx theme'
+theme = 'lynx'
